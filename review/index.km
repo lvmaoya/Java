@@ -1,0 +1,892 @@
+{
+    "root": {
+        "data": {
+            "id": "cxkgstl19m80",
+            "created": 1702192270116,
+            "text": "javaSE"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cxkgt59maw00",
+                    "created": 1702192295547,
+                    "text": "Java语言初识"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkgu45bol40",
+                            "created": 1702192371475,
+                            "text": "dos命令、Java诞生、jdk、jre..."
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkgtmvgukw0",
+                    "created": 1702192333873,
+                    "text": "HelloWorld",
+                    "layout_mind_offset": {
+                        "x": 461.99998310208383,
+                        "y": 96.99999710917479
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkgvebq5aw0",
+                            "created": 1702192471994,
+                            "text": "开发环境配置"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkh0tvfaig0",
+                    "created": 1702192897657,
+                    "text": "基础语法"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkh1d51k4g0",
+                            "created": 1702192939598,
+                            "text": "注释"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkh1v0adeo0",
+                            "created": 1702192978492,
+                            "text": "标识符"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkh1zvds1s0",
+                                    "created": 1702192989080,
+                                    "text": "关键字"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkh22o2dtc0",
+                            "created": 1702192995168,
+                            "text": "数据类型"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkh28ysoh40",
+                                    "created": 1702193008877,
+                                    "text": "byte、short、int、long、float、double、char、Boolean"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkh3cac9cg0",
+                                    "created": 1702193094470,
+                                    "text": "类、接口、数组"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkh3p21zeo0",
+                            "created": 1702193122267,
+                            "text": "数据类型转换"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkh6v5l9ag0",
+                            "created": 1702193370634,
+                            "text": "变量和常量"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkh73wjmgo0",
+                                    "created": 1702193389678,
+                                    "text": "命名规范"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkh7zsbv0o0",
+                            "created": 1702193459080,
+                            "text": "运算符"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkh849ohgw0",
+                                    "created": 1702193468836,
+                                    "text": "算术、赋值、关系、逻辑、位运算、条件、扩展运算符"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhd5zzsrc0",
+                            "created": 1702193864425,
+                            "text": "javadoc"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkhdbvmbkw0",
+                                    "created": 1702193877221,
+                                    "text": "自动生成相关文档"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkhhcdt97c0",
+                    "created": 1702194191778,
+                    "text": "流程控制"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkhhixtreo0",
+                            "created": 1702194206049,
+                            "text": "顺序结构"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhhloopts0",
+                            "created": 1702194212027,
+                            "text": "选择结构"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhhz41k680",
+                            "created": 1702194241253,
+                            "text": "循环结构"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhi257mgw0",
+                            "created": 1702194247854,
+                            "text": "scanner、"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkhjl752tc0",
+                    "created": 1702194367694,
+                    "text": "方法"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkhjr0rbhs0",
+                            "created": 1702194380369,
+                            "text": "修饰符、返回值、方法名、参数"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhk37wuoo0",
+                            "created": 1702194406923,
+                            "text": "调用："
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhka5flr40",
+                            "created": 1702194422010,
+                            "text": "重载：名字相同、参数列表不同"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhllb1zo80",
+                            "created": 1702194524659,
+                            "text": "命令行传参"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhlpjf2kg0",
+                            "created": 1702194533872,
+                            "text": "可变长参数"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhltll6z40",
+                            "created": 1702194542710,
+                            "text": "递归：自己调用自己，给自己一个出口"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkhmkhivog0",
+                    "created": 1702194601237,
+                    "text": "数组"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkhmogxnog0",
+                            "created": 1702194609909,
+                            "text": "定义：必须是同一个类型"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhmpujpps0",
+                            "created": 1702194612909,
+                            "text": "使用"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhmqtl8w00",
+                            "created": 1702194615028,
+                            "text": "二位数组"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhnmnpnfk0",
+                            "created": 1702194684329,
+                            "text": "Arrays工具类"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhnvdndbk0",
+                            "created": 1702194703312,
+                            "text": "排序算法"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkholu5bi00",
+                    "created": 1702194760906,
+                    "text": "面向对象"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkhopg5ugw0",
+                            "created": 1702194768767,
+                            "text": "什么式面向对象"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhp5qki8g0",
+                            "created": 1702194804225,
+                            "text": "类与对象"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhpb18li80",
+                            "created": 1702194815754,
+                            "text": "构造方法"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhpfuzv200",
+                            "created": 1702194826261,
+                            "text": "new 对象"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhq34ddls0",
+                            "created": 1702194876894,
+                            "text": "封装、继承、多态"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkhrhwt4gw0",
+                                    "created": 1702194987452,
+                                    "text": "封装：属性私有、get、set"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkhrwwhysw0",
+                                    "created": 1702195020085,
+                                    "text": "继承：extends、方法的重写、this、super"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkhs8va93s0",
+                                    "created": 1702195046133,
+                                    "text": "多态：父类的引用指向子类的对象、Person person = new Students（）；"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkht1qqgzs0",
+                            "created": 1702195108985,
+                            "text": "修饰符"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkht5eap200",
+                                    "created": 1702195116940,
+                                    "text": "public、protected、private、static、final"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhtoi5wnk0",
+                            "created": 1702195158532,
+                            "text": "接口"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkhtwzl3y80",
+                                    "created": 1702195177000,
+                                    "text": "interface、只能定义方法名、子类实现接口"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkhup4idzs0",
+                                    "created": 1702195238248,
+                                    "text": "接口比抽象类更抽象"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkhv4w7ebk0",
+                                    "created": 1702195272574,
+                                    "text": "实现多个接口"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhtsdhr1k0",
+                            "created": 1702195166957,
+                            "text": "内部类"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkhvq4lbm00",
+                    "created": 1702195318794,
+                    "text": "异常"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkhvttgenc0",
+                            "created": 1702195326827,
+                            "text": "Throwable"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkhw01mtbs0",
+                                    "created": 1702195340383,
+                                    "text": "Exception",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cxkhwa923dk0",
+                                            "created": 1702195362599,
+                                            "text": "运行时异常"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cxkhwjaha1c0",
+                                            "created": 1702195382276,
+                                            "text": "检查型异常"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkhw3xb0sw0",
+                                    "created": 1702195348828,
+                                    "text": "Error"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhxkaumqo0",
+                            "created": 1702195462840,
+                            "text": "try、catch、finally、throw、throws"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkhy7ej2bs0",
+                            "created": 1702195513128,
+                            "text": "自定义异常：继承Exception类即可"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkhxiptpk00",
+                    "created": 1702195459392,
+                    "text": "常用类"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkhymbp7uo0",
+                            "created": 1702195545609,
+                            "text": "Object、Math、Random、File、Date、包装类、String、StringBuffer、StringBuilder"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxki5fki2n40",
+                    "created": 1702196079453,
+                    "text": "集合"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxki5hpg6eo0",
+                            "created": 1702196084105,
+                            "text": "Collection"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxki75lyrgg0",
+                                    "created": 1702196214502,
+                                    "text": "list：有序可重复",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cxki6ljnq4o0",
+                                            "created": 1702196170827,
+                                            "text": "ArrayList"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cxki6qdmpj40",
+                                            "created": 1702196181346,
+                                            "text": "LinkedList"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cxki7hyvhds0",
+                                    "created": 1702196241404,
+                                    "text": "set：无序不可重复"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cxki7qqly3k0",
+                                            "created": 1702196260495,
+                                            "text": "HashSet"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cxki7x1yhts0",
+                                            "created": 1702196274242,
+                                            "text": "TreeSet"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxki5lvmegg0",
+                            "created": 1702196093186,
+                            "text": "Map"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkiacnehkg0",
+                                    "created": 1702196464919,
+                                    "text": "HashMap（重点）"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkiaivvqxs0",
+                                    "created": 1702196478492,
+                                    "text": "TreeMap"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkici8lc4o0",
+                    "created": 1702196633812,
+                    "text": "IO流"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxkiiur7hgw0",
+                    "created": 1702197131244,
+                    "text": "多线程"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkij2uyefc0",
+                            "created": 1702197148885,
+                            "text": "进程和线程"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkij6cl3940",
+                            "created": 1702197156481,
+                            "text": "run和start"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkijgufvi00",
+                            "created": 1702197179329,
+                            "text": "线程创建的方式：Thread、Runnable、Callable"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxking6iv8g0",
+                            "created": 1702197491339,
+                            "text": "线程的状态"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkinmtc8go0",
+                                    "created": 1702197505780,
+                                    "text": "新建、就绪、运行、阻塞、死亡"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkink1lh5s0",
+                            "created": 1702197499748,
+                            "text": "常用的方法"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkio6l7fow0",
+                                    "created": 1702197548823,
+                                    "text": "sleep"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkio8c90c80",
+                                    "created": 1702197552635,
+                                    "text": "join"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkioa7ipbk0",
+                                    "created": 1702197556703,
+                                    "text": "yield"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkioc74k800",
+                                    "created": 1702197561033,
+                                    "text": "isLive"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkioh1tjds0",
+                                    "created": 1702197571596,
+                                    "text": "start"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkiok89nz40",
+                                    "created": 1702197578516,
+                                    "text": "setProority"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkiookhn000",
+                                    "created": 1702197587962,
+                                    "text": "interrupt"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkipgis1oo0",
+                            "created": 1702197648809,
+                            "text": "线程同步"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkipiu9lxs0",
+                                    "created": 1702197653857,
+                                    "text": "多个对象操作同一个资源，并发"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkiprociio0",
+                                    "created": 1702197673090,
+                                    "text": "队列 + 锁"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkitcsk0xk0",
+                            "created": 1702197954149,
+                            "text": "线程通信、"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxkivdr9guw0",
+                            "created": 1702198112976,
+                            "text": "线程池"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkivky2k1s0",
+                    "created": 1702198128625,
+                    "text": "网络编程"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkiwdu30iw0",
+                            "created": 1702198191511,
+                            "text": "ip、端口、tcp、udp、聊天通讯、文件上传"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkivqxtbzc0",
+                    "created": 1702198141671,
+                    "text": "GUI"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxkiwvswnm80",
+                            "created": 1702198230622,
+                            "text": "AWT"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkiwxva7ls0",
+                                    "created": 1702198235119,
+                                    "text": "Frame"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkix1uplpc0",
+                                    "created": 1702198243792,
+                                    "text": "监听事件"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cxkix68ak880",
+                            "created": 1702198253320,
+                            "text": "Swing"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxkix91ek5s0",
+                                    "created": 1702198259434,
+                                    "text": "文本框"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkixclhe9k0",
+                                    "created": 1702198267178,
+                                    "text": "标签"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkixfck2co0",
+                                    "created": 1702198273169,
+                                    "text": "按钮"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cxkixgjhggw0",
+                                    "created": 1702198275765,
+                                    "text": "..."
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxkivt8936w0",
+                    "created": 1702198146655,
+                    "text": "注解和反射"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
