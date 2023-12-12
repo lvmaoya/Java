@@ -1,0 +1,103 @@
+{
+    "root": {
+        "data": {
+            "id": "cxme2gipac00",
+            "created": 1702387681903,
+            "text": "java"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cxme2ifx5kg0",
+                    "created": 1702387686087,
+                    "text": "javase"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxme2ohhj400",
+                    "created": 1702387699243,
+                    "text": "数据库"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxme2lt8mn40",
+                    "created": 1702387693423,
+                    "text": "javaweb"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxme2slha2g0",
+                    "created": 1702387708191,
+                    "text": "ssm"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxme2xdgwcw0",
+                            "created": 1702387718591,
+                            "text": "spring"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxme2z09x940",
+                            "created": 1702387722147,
+                            "text": "springmvc"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxme320f4q00",
+                            "created": 1702387728686,
+                            "text": "mybatis"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cxme35l8dw80",
+                    "created": 1702387736474,
+                    "text": "linux"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxme3dp3dk80",
+                    "created": 1702387754122,
+                    "text": "springboot"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxme3o5fwhs0",
+                    "created": 1702387776879,
+                    "text": "springcloud"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "cxme41innm00",
+                    "created": 1702387805976,
+                    "text": "hadoop"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

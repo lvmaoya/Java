@@ -1,0 +1,89 @@
+{
+    "root": {
+        "data": {
+            "id": "cxmf9cujli80",
+            "created": 1702391043570,
+            "text": "javaweb"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cxmf9gkf4600",
+                    "created": 1702391051665,
+                    "text": "项目",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cxmf9hyz54o0",
+                            "created": 1702391054722,
+                            "text": "搭建一个maven项目"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxmfa2xj8io0",
+                            "created": 1702391100347,
+                            "text": "配置tomcat"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxmfa89w6hc0",
+                            "created": 1702391111978,
+                            "text": "启动空项目"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxmfw4ml1cw0",
+                            "created": 1702392828050,
+                            "text": "导入相关jar"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxmfweaehh40",
+                            "created": 1702392849081,
+                            "text": "创建项目包结构"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxmfwhmgesw0",
+                            "created": 1702392856340,
+                            "text": "创建实体类"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cxmg7fv6uzs0",
+                            "created": 1702393714521,
+                            "text": "编写基础公共类"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cxmg7rxvw800",
+                                    "created": 1702393740805,
+                                    "text": "数据库配置文件"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
